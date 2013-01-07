@@ -1,0 +1,40 @@
+body {font-size:75%;color:#222;background:#fff;font-family: Arial;}
+
+/* a,a:visited,a:link,a:active {
+	color: #59924B;
+	background-color: transparent;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: white;
+	background-color: #65a242;
+	text-decoration: none;
+	font-weight: bold;
+} */
+
+/* input[type=submit] {
+	color: #fff;
+	background: #fff url(../images/bg.gif) 0 0 repeat-x;
+	border-style: none;
+	margin:0.4em 0.4em 0.4em 0;
+	height: 1.8em;
+}
+
+input[type=submit]:hover {
+	color: yellow;
+	background: #fff url(../images/bg.gif) 0 0 repeat-x;
+	border-style: none;
+} */
+
+label {
+	margin-right: 0.5em;	
+}
+
+
+
+.label {
+	font-weight: bold;	
+}
+
